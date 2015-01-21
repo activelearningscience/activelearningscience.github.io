@@ -1,0 +1,122 @@
+[
+    {
+        "test": "CCI",
+        "university": "B",
+        "pretestscore": 0.358411703,
+        "gain": 0.16
+    },
+    {
+        "test": "CCI",
+        "university": "D",
+        "pretestscore": 0.578671329,
+        "gain": -0.01
+    },
+    {
+        "test": "CCI",
+        "university": "C1001",
+        "pretestscore": 0.634943182,
+        "gain": 0.10
+    },
+    {
+        "test": "CCI",
+        "university": "C1031",
+        "pretestscore": 0.651105651,
+        "gain": 0.13
+    },
+    {
+        "test": "CCI",
+        "university": "E",
+        "pretestscore": 0.439593301,
+        "gain": 0.06
+    },
+    {
+        "test": "FMCE",
+        "university": "F",
+        "pretestscore": 0.351605759,
+        "gain": 0.04
+    },
+    {
+        "test": "FMCE",
+        "university": "A-F",
+        "pretestscore": 0.302325581,
+        "gain": 0.28
+    },
+    {
+        "test": "FMCE",
+        "university": "A-R",
+        "pretestscore": 0.441915314,
+        "gain": 0.19
+    },
+    {
+        "test": "FMCE",
+        "university": "G",
+        "pretestscore": 0.247286822,
+        "gain": 0.01
+    },
+    {
+        "test": "FMCE",
+        "university": "H",
+        "pretestscore": 0.508875044,
+        "gain": 0.71
+    },
+    {
+        "test": "RFS",
+        "university": "A",
+        "pretestscore": 0.448429952,
+        "gain": 0.25
+    },
+    {
+        "test": "TCI",
+        "university": "C",
+        "pretestscore": 0.570089286,
+        "gain": 0.23
+    },
+    {
+        "test": "TCI",
+        "university": "A-A",
+        "pretestscore": 0.58625,
+        "gain": 0.28
+    },
+    {
+        "test": "TCI",
+        "university": "A-C",
+        "pretestscore": 0.545,
+        "gain": 0.34
+    },
+    {
+        "test": "TCI",
+        "university": "A-B",
+        "pretestscore": 0.599375,
+        "gain": 0.40
+    },
+    {
+        "test": "TCI",
+        "university": "A-D",
+        "pretestscore": 0.5925,
+        "gain": 0.27
+    },
+    {
+        "test": "FCI",
+        "university": "I-2012-C",
+        "pretestscore": 0.69625731,
+        "gain": 0.31
+    },
+    {
+        "test": "FCI",
+        "university": "I-2013-C",
+        "pretestscore": 0.753333333,
+        "gain": 0.05
+    },
+    {
+        "test": "FCI",
+        "university": "I-2014-C",
+        "pretestscore": 0.764132554,
+        "gain": 0.19
+    },
+    {
+        "test": "FCI",
+        "university": "I-2014-F",
+        "pretestscore": 0.402640264,
+        "gain": 0.20
+    }
+]

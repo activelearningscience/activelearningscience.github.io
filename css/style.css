@@ -1,0 +1,103 @@
+/* Document styling */
+body {
+  background-color: #eee;
+  font-family: helvetica, sans-serif;
+  font-weight: 100;
+  margin: 0;
+}
+
+#wrapper {
+  width: 1200px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#chart {
+  position: absolute;
+  top: 30px;
+  left: 250px;
+  width: 900px;
+  /*margin: 25px auto;*/
+}
+
+#title {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  font-size: 16px;
+  letter-spacing: -2px;
+  line-height: 100%;
+}
+
+#menu {
+  position: absolute;
+  top: 65px;
+  left: 30px;
+  width: 300px;
+}
+
+li, h1, h2 {
+  font-weight: 100;
+}
+
+h2 {
+  font-size: 11px;
+  margin: 0;
+  color: #666;
+}
+
+ul {
+  list-style: none;
+  font-size: 14px;
+  padding: 0;
+  margin-top: 3px;
+}
+
+li {
+  cursor: pointer;
+  padding-bottom: 5px;
+}
+li i {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-right: 7px;
+  position: relative;
+  top: 3px;
+}
+
+li:hover {
+  color: #000;
+}
+
+li.preview {
+  font-weight: 400;
+}
+
+li.selected {
+  font-weight: bold;
+  /*color: darkgoldenrod;*/
+}
+
+
+#tooltip {
+  position: absolute;
+  max-width: 400px;
+  right: 20px;
+  background-color: white;
+  padding: 10px;
+  border: 3px solid #c0c0c0;
+  z-index: 2;
+  font-size: 13px;
+  border-radius: 5px;
+  display: none;
+}
+#tooltip h3 {
+  margin: 0;
+}
+#tooltip .reference {
+  margin: 0;
+  font-size: 12px;
+  line-height: 13px;
+  color: rgb(121, 121, 121);
+}

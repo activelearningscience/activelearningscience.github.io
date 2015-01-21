@@ -1,0 +1,37 @@
+[
+	{
+		"name": "CCI",
+		"id": 1,
+		"fullName": "Chemistry Concept Inventory",
+		"description": "A 22 question survey based on concepts in chemistry. Topics covered include the transformation of matter, energetics, representations in chemistry including formulae and equations and micro- and macroscopic considerations and the relationships between them.",
+		"ref": "Reference: Masters dissertation by Douglas R. Mulford, M.S., Purdue University, August, 1996. <i> An Inventory for Measuring College Students' Level Of Misconceptions in First Semester Chemistry </i>"
+	},
+	{
+		"name": "FMCE",
+		"id": 2,
+		"fullName": "Force Motion Concept Evaluation",
+		"description": "A 43 question survey based on force concepts and other concepts in the area of mechanics. Topics covered include Newton's laws, energy and momentum, as well as general kinematics.",
+		"ref": "Reference: Thornton, R. K. and Sokoloff, David R. (1998). <i> Assessing student learning of Newton's laws: The Force and Motion Conceptual and the Evaluation of Active Learning Laboratory and Lecture Curricula </i>American Journal of Physics. 66(4)"
+	},
+	{
+		"name": "RFS",
+		"id": 3,
+		"fullName": "Representational Fluency Survey",
+		"description": "A 6 question, three-tiered survey based on scientific representational fluency in physics. Questions do not require pre-requisite knowledge of physics concepts. Topics include understanding and interpreting graphs, words and equations used in science.",
+		"ref": " Reference: Hill, M., et al. (2014) <i> Developing and Evaluating a Survey for Representational Fluency in Science.</i> International Journal of Innovation in Science and Mathematics Education 22(6) "
+	},
+	{
+		"name": "TCI",
+		"id": 4,
+		"fullName": "Thermal Concepts Inventory",
+		"description": "A survey based on concepts in thermal physics which may be administered in part or full. Topics covered include heat, temperature, thermal processes.",
+		"ref": "Reference: Wattanakasiwich, P., Talaeb, P., Sharma, M., and Johnston, I. (2013). <i> Construction and Implementation of a Conceptual Survey in Thermodynamics. </i> International Journal of Innovation in Science and Mathematics Eucation. 21(1)"
+	},
+	{
+		"name": "FCI",
+		"id": 5,
+		"fullName": "Force Concept Inventory",
+		"description": "A 30 question survey based on force concepts. Topics include Newton's laws and kinematics.",
+		"ref": "Reference: Hestenes, D., Wells, M., and Swackhamer, G. (1992). Force Concept Inventory, <i> The Physics Teacher, </i> 30 (3)"
+	}
+]
